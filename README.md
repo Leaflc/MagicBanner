@@ -26,7 +26,7 @@ Maven:
 ```
 gradle
 ```
-implementation 'com.leaflc.banner:banner:beta1.0'
+implementation 'com.leaflc.banner:banner:beta1.1'
 ```
 
 ### QuickStart
