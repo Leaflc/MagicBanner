@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="Banner">
+        <attr name="firstItem" format="integer" />
+        <!-- 翻页时间 -->
+        <attr name="timeInterval" format="integer" />
+        <!-- 指示器布局方向 -->
+        <attr name="direction" format="enum">
+            <enum name="left" value="1" />
+            <enum name="right" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
